@@ -1,4 +1,4 @@
-# 🎂 Age Eligibility Checker
+#  Age Eligibility Checker
 
 A simple and interactive web application built using HTML, CSS, and JavaScript that checks a user's age and displays their voting eligibility status.
 
